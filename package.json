@@ -1,0 +1,25 @@
+{
+  "name": "spotifyclone",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piyush-Kumar-Tailor/music-server-files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piyush-Kumar-Tailor/music-server-files/issues"
+  },
+  "homepage": "https://github.com/Piyush-Kumar-Tailor/music-server-files#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "serve-index": "^1.9.1"
+  }
+}
